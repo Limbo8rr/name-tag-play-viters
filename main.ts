@@ -1,3 +1,4 @@
+game.showLongText("you chose this team yes i see i see wise you are i like the team you chose i know i just know you are very wise cause this choice is wise i can tell you team play n sip this is what you chose this is your team.", DialogLayout.Full)
 scene.setBackgroundColor(2)
 scene.setBackgroundImage(img`
     2222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222

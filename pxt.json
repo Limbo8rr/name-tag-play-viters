@@ -1,5 +1,5 @@
 {
-    "name": "Name Tag",
+    "name": "tea chose #1",
     "description": "",
     "dependencies": {
         "device": "*"
@@ -7,13 +7,15 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "images.g.jres",
+        "images.g.ts"
     ],
     "testFiles": [
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.2.16",
+        "target": "1.3.44",
         "targetId": "arcade"
     },
     "supportedTargets": [
